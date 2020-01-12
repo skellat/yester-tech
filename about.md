@@ -1,23 +1,22 @@
 ---
 title: About
-date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+date: '2017-11-01T03:00:00.000+00:00'
+banner_image: "/uploads/2020/01/12/ccbf296fab380e10ed27f16eec7be959.jpeg"
+heading: About Yester-Tech
+sub_heading: Yesterday's Craftsmanship, Today's Technology
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
-publish_date: 2017-12-01 04:00:00 +0000
+textline: Your partners in aerospace, automotive, and racing work in Eastlake, Ohio.
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
+Yester-Tech was created to share a lifetime of Aero-Space, Automotive and Racing experience with those individuals who wish to build/restore their own projects but would like some guidance. Although our specialty is British and American classic our vast experience can be applied to vast range of projects.
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+We have scouts all over the central and western states. They continually discover interesting projects. Recent finds include a 1963 TR-4, 1972 Opel GT, Corvettes, several old pickup trucks, 1938 Hudson, 1955 Nomad and a 1940 Cadillac.  No job is considered too small. If it is important to you it will receive our complete attention. Besides it costs nothing to give us a call.
