@@ -17,6 +17,6 @@ menu:
     weight: 2
 
 ---
-Yester-Tech was created to share a lifetime of Aero-Space, Automotive and Racing experience with those individuals who wish to build/restore their own projects but would like some guidance. Although our specialty is British and American classic our vast experience can be applied to vast range of projects.
+Yester-Tech was created to share a lifetime of Aerospace, Automotive and Racing experience with those individuals who wish to build/restore their own projects but would like some guidance. Although our specialty is British and American classic our vast experience can be applied to vast range of projects.
 
 We have scouts all over the central and western states. They continually discover interesting projects. Recent finds include a 1963 TR-4, 1972 Opel GT, Corvettes, several old pickup trucks, 1938 Hudson, 1955 Nomad and a 1940 Cadillac.  No job is considered too small. If it is important to you it will receive our complete attention. Besides it costs nothing to give us a call.
